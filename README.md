@@ -10,21 +10,23 @@ This project analyzes stock performance using Python to uncover trends, correlat
 - **Daily Returns Analysis** – Calculates and visualizes day-to-day percentage changes
   ![Daily return Chart](images/img2.png)
 - **Cumulative Returns** – Tracks the overall growth of investment over time
- ![Daily return Chart](images/img3.png)
+ ![Cumulative Returns Chart](images/img3.png)
 - **Moving Averages (20, 50, 200 Days)** – Detects short-term and long-term trends
-  ![Daily return Chart](images/img4.png)
+  ![Moving Averages Chart](images/img4.png)
 - **Rolling Volatility** – Measures risk and uncertainty in stock performance
   *** One Stock ***
- ![Daily return Chart](images/img5.png)
+ ![One Stock Rolling Volatility Chart](images/img5.png)
   *** Multiple Stock ***
- ![Daily return Chart](images/img6.png)
+ ![Multiple Stock Rolling Volatility Chart](images/img6.png)
 - **Volume Analysis** – Examines trading activity and market momentum
- ![Daily return Chart](images/img7.png)
+ ![Volume Analysis Chart](images/img7.png)
 - **Box & KDE Plots** – Displays the distribution and spread of returns
- ![Daily return Chart](images/img8.png)
- ![Daily return Chart](images/img9.png)
+ ![Box & KDE Plots](images/img8.png)
+ ![Box & KDE Plots](images/img9.png)
 - **Correlation Heatmap** – Highlights relationships among different stock returns
- ![Daily return Chart](images/img10.png)
+ ![Correlation Heatmap Chart](images/img10.png)
+**Risk vs Return ** – Showing the risk and their respective stock returns
+  ![Risk vs Return Chart](images/img11.png)
 
 - 
   ## 📦 Tech Stack  
