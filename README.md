@@ -6,7 +6,8 @@ This project analyzes stock performance using Python to uncover trends, correlat
 
 ##  Features  
 
-- **Daily Returns Analysis** – Calculates and visualizes day-to-day percentage changes  
+- **Daily Returns Analysis** – Calculates and visualizes day-to-day percentage changes
+  ![Alt text](images/img1.png)
 - **Cumulative Returns** – Tracks the overall growth of investment over time  
 - **Moving Averages (20, 50, 200 Days)** – Detects short-term and long-term trends  
 - **Rolling Volatility** – Measures risk and uncertainty in stock performance  
